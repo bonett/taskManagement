@@ -1,0 +1,7 @@
+{
+  "name": "consultingMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
